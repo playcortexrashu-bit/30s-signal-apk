@@ -1,0 +1,8 @@
+{
+  "name": "30s Auto Signal",
+  "short_name": "Signal30s",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617"
+}
